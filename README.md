@@ -1,8 +1,10 @@
 # LearningDjango
 
-Mestrado em Bioinformática Clínica
-Rafael Oliveira
-João Oliveira
+Mestrado em Bioinformática Clínica;
+Rafael Oliveira;
+João Oliveira;
+
+Link para o repositório no GitHub - https://github.com/Rafael-Silva-Oliveira/django_project
 
 Primeira parte - Criar tabelas, inserrir dados e fazer um plot. Nesta primeira parte pode usar um IDE ou linha de comandos para correr o script. Pode fazer download ou clonar o reposiório do github.
 
