@@ -1,0 +1,8 @@
+matplotlib
+matplotlib-venn==0.11.7
+numpy 
+pandas
+psycopg2==2.9.3
+pyodbc==4.0.32
+seaborn
+tqdm==4.64.0

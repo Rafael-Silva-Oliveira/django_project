@@ -1,0 +1,61 @@
+id,gender,age_group,random_year,random_area
+u00,male,between 24 and 26,1,social sciences
+u01,male,27 and older,1,engineering
+u02,male,27 and older,5,mathematics
+u03,male,between 18 and 20,1,mathematics
+u04,female,between 21 and 23,5,mathematics
+u05,female,between 21 and 23,3,mathematics
+u06,female,between 21 and 23,5,mathematics
+u07,male,27 and older,4,social sciences
+u08,male,27 and older,3,life sciences
+u09,male,27 and older,3,social sciences
+u10,male,27 and older,5,mathematics
+u11,female,between 21 and 23,1,social sciences
+u12,male,between 24 and 26,4,life sciences
+u13,male,27 and older,4,mathematics
+u14,male,between 21 and 23,4,social sciences
+u15,male,between 21 and 23,4,mathematics
+u16,female,27 and older,2,engineering
+u17,male,between 18 and 20,2,social sciences
+u18,male,between 21 and 23,3,mathematics
+u19,male,between 21 and 23,3,social sciences
+u20,male,between 18 and 20,3,engineering
+u21,male,27 and older,3,mathematics
+u22,male,between 21 and 23,5,engineering
+u23,male,between 18 and 20,2,life sciences
+u24,male,between 21 and 23,1,engineering
+u25,male,27 and older,3,social sciences
+u26,female,between 18 and 20,3,life sciences
+u27,male,between 24 and 26,5,engineering
+u28,female,between 21 and 23,2,engineering
+u29,female,27 and older,2,life sciences
+u30,male,between 18 and 20,5,mathematics
+u31,male,between 18 and 20,5,mathematics
+u32,female,27 and older,3,life sciences
+u33,female,between 24 and 26,2,life sciences
+u34,female,27 and older,4,social sciences
+u35,female,27 and older,4,life sciences
+u36,female,between 18 and 20,4,engineering
+u37,female,between 24 and 26,4,life sciences
+u38,male,between 21 and 23,2,mathematics
+u39,male,between 21 and 23,3,life sciences
+u40,male,27 and older,5,social sciences
+u41,male,between 21 and 23,4,life sciences
+u42,male,27 and older,3,engineering
+u43,male,between 18 and 20,5,mathematics
+u44,male,between 21 and 23,5,mathematics
+u45,male,between 21 and 23,2,engineering
+u46,male,between 21 and 23,3,mathematics
+u47,female,27 and older,3,mathematics
+u48,male,between 18 and 20,5,mathematics
+u49,male,between 21 and 23,1,life sciences
+u50,female,between 18 and 20,4,life sciences
+u51,male,between 21 and 23,3,engineering
+u52,female,between 18 and 20,3,social sciences
+u53,male,27 and older,4,engineering
+u54,female,27 and older,4,social sciences
+u55,female,between 21 and 23,4,engineering
+u56,male,between 21 and 23,1,life sciences
+u57,female,27 and older,4,engineering
+u58,male,between 24 and 26,4,mathematics
+u59,female,27 and older,4,social sciences
