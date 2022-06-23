@@ -70,8 +70,8 @@ APLICAÇÃO CRUD - Parte 2
 De acordo com o proposal:
 
 ```
-- 2.1. Pasta com o nome DjangoWeb - Primeiro tutorial
-- 2.2. Pasta com o nome SBDProject - Segundo Tutorial
+- 2.1. Pasta com o nome DjangoWeb (Tutorial de admin) + SBDProject (Script hello world) - Primeiro Tutorial
+- 2.2. Pasta com o nome CRUDProject_Tutorial - Segundo Tutorial
 - 2.3. Pasta com o nome CRUDProject - Integração da app CRUD com base de dados criada na primeira parte;
 ```
 
