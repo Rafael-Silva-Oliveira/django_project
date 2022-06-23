@@ -1,8 +1,10 @@
 # LearningDjango
 
 Mestrado em Bioinformática Clínica;
-Rafael Oliveira;
-João Oliveira;
+
+Rafael Oliveira (90272);
+
+João Oliveira (93980);
 
 Link para o repositório no GitHub - https://github.com/Rafael-Silva-Oliveira/django_project
 
