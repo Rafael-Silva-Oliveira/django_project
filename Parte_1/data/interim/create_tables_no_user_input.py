@@ -330,7 +330,7 @@ def main():
     3 - Opção para inserir os dados a partir de uma folder
     4 - Opção para visualizar grafico
     """
-    option_dict = {1:'Transform .txt files from dinning data into a single .csv file (not required if you already have the crudapp_e_dinning.csv  file in the processed folder)', 2: 'Generate random data for the crudApp_a_student table. This will generate a csv file called crudapp_a_studen.csv and saved in the processed folder.',3:'I just want the minimum user input possible! This option will 1) create tables, 2) add the csv files to the tables accordingly with the config path and 3) print the plot. No user input required.',4:'Exit'}
+    option_dict = {1:'Transform .txt files from dinning data into a single .csv file (not required if you already have the crudapp_e_dinning.csv  file in the processed folder)', 2: 'Generate random data for the crudApp_a_student table. This will generate a csv file called crudapp_a_student.csv and saved in the processed folder.',3:'I just want the minimum user input possible! This option will 1) create tables, 2) add the csv files to the tables accordingly with the config path and 3) print the plot. No user input required.',4:'Exit'}
     print("############### \n ATTENTION: If you already have all the csv files in a single folder the only option you need is the 3rd option. If you want to try to concatenate the .txt files from the dinning folder into a single csv file, use option 1. If you want to generate new random data to populate the table called 'crudapp_a_table', press 2 \n ###############")
     print("Please, select one of the following options: ")
     for k,v in option_dict.items():

@@ -90,7 +90,7 @@ Essa instalação poderá ser feita de duas maneiras:
 
 Outro aspeto importante é que o usuário terá que alterar os parâmetros de conexão da base de dados que estão presentes no ficheiro `CRUDProject\CRUDProject\settings.py`.
 
-Para correr a aplicação na linha de comandos, o usuário deverá estarlocalizado na pasta CRUDProject e executar o comando `python manage.py runserver`.
+Para correr a aplicação na linha de comandos, o usuário deverá estar localizado na pasta CRUDProject e executar o comando `python manage.py runserver`.
 
 Em VS, o usuário simplesmente precisa de clicar em Web Server (Browser de Preferência), tendo em atenção de que o projeto CRUDProject tem de estar definido como Startup Project (Startup Projects estão identificados a negrito). Caso o projeto não esteja definido como Startup Project, o usuário, no solution explorer, deverá fazer right-click no projeto CRUDProject, clicando de seguida em Set as Startup Project.
 
