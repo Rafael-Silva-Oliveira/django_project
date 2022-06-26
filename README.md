@@ -99,8 +99,14 @@ Se o usuário quiser fazer as migrações do início, terá que apagar o ficheir
 - 1. Alterar parâmetros da conexão da base de dados no ficheiro `CRUDProject\CRUDProject\settings.py` consoante os parâmetros previamente estabelecidos na primeira parte do trabalho (base de dados onde se encontra os dados inseridos)
 - 2. Estando no diretório `CRUDProject`, correr `python manage.py makemigrations`. Isto vai criar um novo ficheiro `0001_initial.py`.
 - 3. `python manage.py migrate --fake-initial`
-- 4. `python manage.py runserver` ou clicar em Web Server (Browser de Preferência), caso o usuário esteja a usar VS.
+- 4. `python manage.py runserver` ou clicar em Web Server (Browser de Preferência), caso o usuário esteja a usar VS e entrar na pagina web.
+
+Depois disto, é possivel editar, adicionar ou remover dados de alunos sendo as alterações refletidas na base de dados PostgreSQL.
 
 Caso contrario, basta apenas alterar os parametros da conexao no ficheiro `settings` e fazer:
 
 - 1. `python manage.py runserver` (ignorar o aviso que aparece `You have 19 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, crudapp, sessions.Run 'python manage.py migrate' to apply them.` -> Este aviso diz simplesmente que o ficheiro 0001_initial.py ainda nao tem as migrações das alterações feitas (neste caso, as alterações foram feitas no ficheiro `settings.py`, mas podemos ignorar o aviso se quisermos apenas fazer ligação com novos parametros de conexão à base de dados)
+
+Por fim, pode ainda correr o seguinte comando (opcional para mostrar a página admin):
+
+`python manage.py createsuperuser` no diretorio `..\CRUDProject` para criar um user e aceder ao `http://127.0.0.1:8000/admin/` e adicionar as informações do usuario (username, e-mail, passowrd...) a criar.
