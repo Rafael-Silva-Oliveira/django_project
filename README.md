@@ -98,7 +98,7 @@ Se o usuário quiser fazer as migrações do início, terá que apagar o ficheir
 
 - 1. Alterar parâmetros da conexão da base de dados no ficheiro `CRUDProject\CRUDProject\settings.py` consoante os parâmetros previamente estabelecidos na primeira parte do trabalho (base de dados onde se encontra os dados inseridos)
 - 2. Estando no diretório `CRUDProject`, correr `python manage.py makemigrations`. Isto vai criar um novo ficheiro `0001_initial.py`.
-- 3. `python manage.py migrate --fake-initial`
+- 3. `python manage.py migrate --fake-initial` - este comando com `--fake-initial` vai evitar que o Django crie uma nova tabela `crudApp_a_students` uma vez que esta ja foi criada na primeira parte.
 - 4. `python manage.py runserver` ou clicar em Web Server (Browser de Preferência), caso o usuário esteja a usar VS e entrar na pagina web.
 
 Depois disto, é possivel editar, adicionar ou remover dados de alunos sendo as alterações refletidas na base de dados PostgreSQL.
